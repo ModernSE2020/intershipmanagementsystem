@@ -1,0 +1,2 @@
+# intershipmanagementsystem
+bupt2020现代软件工程大作业-实习管理系统
